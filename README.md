@@ -109,9 +109,9 @@ This project requires Python version >= 3.9, uses RNAfold 2.6.4.
    python FeatureExtraction_final.py data/gencode_v17_5utr_15bpcds.fa output/
    ```
 
-   Run plusCE_database.ipynb
+   Run plusCE_database.ipynb.
 
-3. Train model and output spearman $\rho$
+3. Train model and output spearman $\rho$.
 
    ```bash
    python plusCE.py --data data --annot df_counts_and_len.TE_sorted.Muscle.with_annot.txt --feature output --rna 5 --ribo 0.1 --querydb DB
