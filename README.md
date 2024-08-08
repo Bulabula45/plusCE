@@ -46,6 +46,18 @@ This project requires Python version >= 3.9, uses cd-hit 4.8.1 and RNAfold 2.6.4
 
 # ANALYSIS--PART II
 
+### Prepare dependencies
+
+**software**
+
+This project requires Python version >= 3.9, uses RNAfold 2.6.4.
+
+**python library**
+
+`pip install -r requirements.txt`
+
+<br>
+
 ### Source data
 
 | Data              | url                                                          |
