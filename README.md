@@ -123,7 +123,7 @@ This project requires Python version >= 3.9, uses RNAfold 2.6.4.
 
 # Citations
 
-Li Y, Zhou H, Chen X, Zheng Y, Kang Q, Hao D, Zhang L, Song T, Luo H, Hao Y, et al: SmProt: A Reliable Repository with Comprehensive Annotation of Small Proteins Identified from Ribosome Profiling**.** *Genomics Proteomics Bioinformatics* 2021, 19**:**602-610. 
+Li Y, Zhou H, Chen X, Zheng Y, Kang Q, Hao D, Zhang L, Song T, Luo H, Hao Y, et al: SmProt: A Reliable Repository with Comprehensive Annotation of Small Proteins Identified from Ribosome Profiling**.** *Genomics Proteomics Bioinformatics* 2021, 19**:**602-610. http://dx.doi.org/10.1016/j.gpb.2021.09.002.
 
 Luo X, Huang Y, Li H, Luo Y, Zuo Z, Ren J, Xie Y: SPENCER: a comprehensive database for small peptides encoded by noncoding RNAs in cancer patients**.** *Nucleic Acids Res* 2022, 50**:**D1373-D1381. http://dx.doi.org/10.1093/nar/gkab822.
 
