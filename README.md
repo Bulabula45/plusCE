@@ -123,10 +123,10 @@ This project requires Python version >= 3.9, uses RNAfold 2.6.4.
 
 # Citations
 
-Li Y, Zhou H, Chen X, Zheng Y, Kang Q, Hao D, Zhang L, Song T, Luo H, Hao Y, et al: SmProt: A Reliable Repository with Comprehensive Annotation of Small Proteins Identified from Ribosome Profiling**.** *Genomics Proteomics Bioinformatics* 2021, 19:602-610. http://dx.doi.org/10.1016/j.gpb.2021.09.002.
+Li Y, Zhou H, Chen X, Zheng Y, Kang Q, Hao D, Zhang L, Song T, Luo H, Hao Y, et al: SmProt: A Reliable Repository with Comprehensive Annotation of Small Proteins Identified from Ribosome Profiling. *Genomics Proteomics Bioinformatics* 2021, 19:602-610. http://dx.doi.org/10.1016/j.gpb.2021.09.002.
 
-Luo X, Huang Y, Li H, Luo Y, Zuo Z, Ren J, Xie Y: SPENCER: a comprehensive database for small peptides encoded by noncoding RNAs in cancer patients**.** *Nucleic Acids Res* 2022, 50:D1373-D1381. http://dx.doi.org/10.1093/nar/gkab822.
+Luo X, Huang Y, Li H, Luo Y, Zuo Z, Ren J, Xie Y: SPENCER: a comprehensive database for small peptides encoded by noncoding RNAs in cancer patients. *Nucleic Acids Res* 2022, 50:D1373-D1381. http://dx.doi.org/10.1093/nar/gkab822.
 
-Chothani SP, Adami E, Widjaja AA, Langley SR, Viswanathan S, Pua CJ, Zhihao NT, Harmston N, D'Agostino G, Whiffin N, et al: A high-resolution map of human RNA translation**.** *Mol Cell* 2022, 82:2885-2899 e2888. http://dx.doi.org/10.1016/j.molcel.2022.06.023.
+Chothani SP, Adami E, Widjaja AA, Langley SR, Viswanathan S, Pua CJ, Zhihao NT, Harmston N, D'Agostino G, Whiffin N, et al: A high-resolution map of human RNA translation. *Mol Cell* 2022, 82:2885-2899 e2888. http://dx.doi.org/10.1016/j.molcel.2022.06.023.
 
-Cao J, Novoa EM, Zhang Z, Chen WCW, Liu D, Choi GCG, Wong ASL, Wehrspaun C, Kellis M, Lu TK: High-throughput 5' UTR engineering for enhanced protein production in non-viral gene therapies**.** *Nat Commun* 2021, 12:4138. http://dx.doi.org/10.1038/s41467-021-24436-7.
+Cao J, Novoa EM, Zhang Z, Chen WCW, Liu D, Choi GCG, Wong ASL, Wehrspaun C, Kellis M, Lu TK: High-throughput 5' UTR engineering for enhanced protein production in non-viral gene therapies. *Nat Commun* 2021, 12:4138. http://dx.doi.org/10.1038/s41467-021-24436-7.
