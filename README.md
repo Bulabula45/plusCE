@@ -1,6 +1,7 @@
 
 
-<details>
+<details open>
+
 <summary><b>Table of contents</b></summary>
 
 - [ANALYSIS PART I](#ANALYSISPARTI)
@@ -18,6 +19,8 @@
 - [Citations](#citations)
 
 </details>
+
+<br>
 
 
 # ANALYSIS PART I<a name="ANALYSISPARTI"></a>
