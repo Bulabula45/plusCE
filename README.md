@@ -1,8 +1,9 @@
 
 
 <details open>
-
 <summary><b>Table of contents</b></summary>
+
+<br>
 
 - [ANALYSIS PART I](#ANALYSISPARTI)
   - [Prepare dependencies](#Preparedependencies)
