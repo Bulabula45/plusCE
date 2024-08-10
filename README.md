@@ -3,26 +3,26 @@
 <details>
 <summary><b>Table of contents</b></summary>
 
-- [ANALYSIS PART I](#ANALYSIS PART I)
-  - [Prepare dependencies](#Prepare dependencies)
-  - [Source data and preprocess](#Source data and preprocess)
+- [ANALYSIS PART I](#ANALYSISPARTI)
+  - [Prepare dependencies](#Preparedependencies)
+  - [Source data and preprocess](#Sourcedataandpreprocess)
   - [Codes](#Codes)
-- [ANALYSIS PART II](#ANALYSIS PART II)
-  - [Source data](#Source data)
+- [ANALYSIS PART II](#ANALYSISPARTII)
+  - [Source data](#Sourcedata)
   - [Codes](#Codes2)
 - [Model](#Model)
-  - [Prepare dependencies](#Prepare dependencies2)
-  - [Source data](#Source data2)
+  - [Prepare dependencies](#Preparedependencies2)
+  - [Source data](#Sourcedata2)
   - [Codes](#Codes3)
-  - [The trained models](#The trained models)
+  - [The trained models](#Thetrainedmodels)
 - [Citations](#citations)
 
 </details>
 
 
-# ANALYSIS PART I<a name="ANALYSIS PART I"></a>
+# ANALYSIS PART I<a name="ANALYSISPARTI"></a>
 
-### Prepare dependencies<a name="Prepare dependencies"></a>
+### Prepare dependencies<a name="Preparedependencies"></a>
 
 **software**
 
@@ -36,7 +36,7 @@ This project requires Python version >= 3.9, uses cd-hit 4.8.1 and RNAfold 2.6.4
 
 <br>
 
-### Source data and preprocess<a name="Source data and preprocess"></a>
+### Source data and preprocess<a name="Sourcedataandpreprocess"></a>
 
 | Database          | url                                                          |
 | ----------------- | ------------------------------------------------------------ |
@@ -66,9 +66,9 @@ This project requires Python version >= 3.9, uses cd-hit 4.8.1 and RNAfold 2.6.4
 
 <br>
 
-# ANALYSIS PART II<a name="ANALYSIS PART II"></a>
+# ANALYSIS PART II<a name="ANALYSISPARTII"></a>
 
-### Source data<a name="Source data"></a>
+### Source data<a name="Sourcedata"></a>
 
 | Data              | url                                                          |
 | ----------------- | ------------------------------------------------------------ |
@@ -87,7 +87,7 @@ This project requires Python version >= 3.9, uses cd-hit 4.8.1 and RNAfold 2.6.4
 
 # MODEL<a name="Model"></a>
 
-### Prepare dependencies<a name="Prepare dependencies2"></a>
+### Prepare dependencies<a name="Preparedependencies2"></a>
 
 **software**
 
@@ -99,7 +99,7 @@ This project requires Python version >= 3.9, uses RNAfold 2.6.4.
 
 <br>
 
-### Source data<a name="Source data2"></a>
+### Source data<a name="Sourcedata2"></a>
 
 | Data                                     | url                                                        |
 | ---------------------------------------- | ---------------------------------------------------------- |
@@ -141,7 +141,7 @@ This project requires Python version >= 3.9, uses RNAfold 2.6.4.
 
 <br>
 
-### The trained models<a name="The trained models">
+### The trained models<a name="Thetrainedmodels">
 
 | cell line | url                                                          |
 | --------- | ------------------------------------------------------------ |
