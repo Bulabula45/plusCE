@@ -1,4 +1,4 @@
-# PlusCE: predicting translational efficiency incorporating conserved elements 
+# PlusCE: predict translational efficiency incorporating conserved elements 
 
 <details open>
 <summary><b>Table of contents</b></summary>
