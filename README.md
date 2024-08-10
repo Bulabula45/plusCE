@@ -3,11 +3,11 @@
 <details>
 <summary><b>Table of contents</b></summary>
 
-- [ANALYSIS--PART I](#ANALYSIS--PART I)
+- [ANALYSIS PART I](#ANALYSIS PART I)
   - [Prepare dependencies](#Prepare dependencies)
   - [Source data and preprocess](#Source data and preprocess)
   - [Codes](#Codes)
-- [ANALYSIS--PART II](#ANALYSIS--PART II)
+- [ANALYSIS PART II](#ANALYSIS PART II)
   - [Source data](#Source data)
   - [Codes](#Codes2)
 - [Model](#Model)
@@ -20,7 +20,7 @@
 </details>
 
 
-# ANALYSIS--PART I<a name="ANALYSIS--PART I"></a>
+# ANALYSIS PART I<a name="ANALYSIS PART I"></a>
 
 ### Prepare dependencies<a name="Prepare dependencies"></a>
 
@@ -66,7 +66,7 @@ This project requires Python version >= 3.9, uses cd-hit 4.8.1 and RNAfold 2.6.4
 
 <br>
 
-# ANALYSIS--PART II<a name="ANALYSIS--PART II"></a>
+# ANALYSIS PART II<a name="ANALYSIS PART II"></a>
 
 ### Source data<a name="Source data"></a>
 
