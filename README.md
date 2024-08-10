@@ -1,6 +1,28 @@
-# ANALYSIS--PART I
 
-### Prepare dependencies
+
+<details>
+<summary><b>Table of contents</b></summary>
+
+- [ANALYSIS--PART I](#ANALYSIS--PART I)
+  - [Prepare dependencies](#Prepare dependencies)
+  - [Source data and preprocess](#Source data and preprocess)
+  - [Codes](#Codes)
+- [ANALYSIS--PART II](#ANALYSIS--PART II)
+  - [Source data](#Source data)
+  - [Codes](#Codes2)
+- [Model](#Model)
+  - [Prepare dependencies](#Prepare dependencies2)
+  - [Source data](#Source data2)
+  - [Codes](#Codes3)
+  - [The trained models](#The trained models)
+- [Citations](#citations)
+
+</details>
+
+
+# ANALYSIS--PART I<a name="ANALYSIS--PART I"></a>
+
+### Prepare dependencies<a name="Prepare dependencies"></a>
 
 **software**
 
@@ -14,7 +36,7 @@ This project requires Python version >= 3.9, uses cd-hit 4.8.1 and RNAfold 2.6.4
 
 <br>
 
-### Source data and preprocess
+### Source data and preprocess<a name="Source data and preprocess"></a>
 
 | Database          | url                                                          |
 | ----------------- | ------------------------------------------------------------ |
@@ -28,7 +50,7 @@ This project requires Python version >= 3.9, uses cd-hit 4.8.1 and RNAfold 2.6.4
 
 <br>
 
-### Codes
+### Codes<a name="Codes"></a>
 
 1. Run  `data_preprocess.ipynb` to generate transcripts and ORF annotation files for MANE mRNA and ncRNA_ribo from Smprot, SPENCER, and predicted ORFs of ncRNA.
 
@@ -44,9 +66,9 @@ This project requires Python version >= 3.9, uses cd-hit 4.8.1 and RNAfold 2.6.4
 
 <br>
 
-# ANALYSIS--PART II
+# ANALYSIS--PART II<a name="ANALYSIS--PART II"></a>
 
-### Source data
+### Source data<a name="Source data"></a>
 
 | Data              | url                                                          |
 | ----------------- | ------------------------------------------------------------ |
@@ -55,7 +77,7 @@ This project requires Python version >= 3.9, uses cd-hit 4.8.1 and RNAfold 2.6.4
 
 <br>
 
-### Codes
+### Codes<a name="Codes2"></a>
 
 1. Run `plot.ipynb` to analysis translational features of mRNA with long 5' UTR grouped by translational efficiency.
 
@@ -63,9 +85,9 @@ This project requires Python version >= 3.9, uses cd-hit 4.8.1 and RNAfold 2.6.4
 
 <br>
 
-# MODEL
+# MODEL<a name="Model"></a>
 
-### Prepare dependencies
+### Prepare dependencies<a name="Prepare dependencies2"></a>
 
 **software**
 
@@ -77,7 +99,7 @@ This project requires Python version >= 3.9, uses RNAfold 2.6.4.
 
 <br>
 
-### Source data
+### Source data<a name="Source data2"></a>
 
 | Data                                     | url                                                        |
 | ---------------------------------------- | ---------------------------------------------------------- |
@@ -85,7 +107,7 @@ This project requires Python version >= 3.9, uses RNAfold 2.6.4.
 
 <br>
 
-### Codes
+### Codes<a name="Codes3"></a>
 
 1. Download the sequence file and annotation files.
 
@@ -117,11 +139,19 @@ This project requires Python version >= 3.9, uses RNAfold 2.6.4.
    python plusCE.py --data data --annot df_counts_and_len.TE_sorted.Muscle.with_annot.txt --feature output --rna 5 --ribo 0.1 --querydb DB
    ```
 
+<br>
 
+### The trained models<a name="The trained models">
+
+| cell line | url                                                          |
+| --------- | ------------------------------------------------------------ |
+| HEK       | https://zenodo.org/records/13289680/files/rf_model_HEK.pkl?download=1 |
+| Muscle    | https://zenodo.org/records/13289680/files/rf_model_Muscle.pkl?download=1 |
+| pc3       | https://zenodo.org/records/13289680/files/rf_model_pc3.pkl?download=1 |
 
 <br>
 
-# Citations
+# Citations<a name="Citations">
 
 Li Y, Zhou H, Chen X, Zheng Y, Kang Q, Hao D, Zhang L, Song T, Luo H, Hao Y, et al: SmProt: A Reliable Repository with Comprehensive Annotation of Small Proteins Identified from Ribosome Profiling. *Genomics Proteomics Bioinformatics* 2021, 19:602-610. http://dx.doi.org/10.1016/j.gpb.2021.09.002.
 
