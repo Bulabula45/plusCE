@@ -5,7 +5,7 @@ License: MIT License
 """
 import sys,os
 from Bio import SeqIO
-import Bio.SeqUtils.CodonUsage
+# import Bio.SeqUtils.CodonUsage
 import subprocess
 from multiprocessing import Pool,cpu_count
 import gzip
